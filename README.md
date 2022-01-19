@@ -12,6 +12,7 @@
 + [Python](https://www.python.org)
 + [Python - Descargas](https://www.python.org/downloads/)
 + [Documentación de Python 3.10.2](https://docs.python.org/3/)
++ 
 ![Python](https://www.python.org/static/img/python-logo@2x.png)
 ---
 `Matplotlib` [Ir](https://matplotlib.org/)
