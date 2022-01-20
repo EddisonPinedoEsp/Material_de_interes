@@ -11,6 +11,16 @@
 -
 + [Visual Studio Code](https://code.visualstudio.com/)
 ---
+
+<p> 
+<img src="https://acortar.link/AFKsID" align="right" style="width: 220px">
+</p>
+
+`Replit` [Ir](https://replit.com)
+-
++ [Replit](https://replit.com)
+---
+
 <p> 
 <img src="https://www.python.org/static/img/python-logo@2x.png" align="right" style="width: 270px">
 </p>
@@ -35,5 +45,3 @@
 + [Matplotlib - Uso básico](https://matplotlib.org/stable/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
 
 ---
-<img src = https://www.python.org/static/img/python-logo@2x.png width = 300 height = 120 alt = "Descripción de imagen" align = "Posición de imagen" />
-
