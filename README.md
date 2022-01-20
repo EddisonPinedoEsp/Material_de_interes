@@ -90,7 +90,7 @@
 
 ---
 <p> 
-<img src="https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png" align="right" style="width: 115.61249px">
+<img src="https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png" align="right" style="width: 110px">
 </p>
 
 `Editor.md` [Ir](https://pandao.github.io/editor.md/en.html)
