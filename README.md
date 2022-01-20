@@ -100,6 +100,16 @@
 
 ---
 <p> 
+<img src="https://i.ibb.co/ncm1Hq7/Screenshot-200.png" align="right" style="width: 150px">
+</p>
+
+`Shields.io` [Ir](https://shields.io/)
+-
+
++ [Insignia](https://shields.io/)
+  
+---
+<p> 
 <img src="https://elcodigoascii.com.ar/codigo-americano-estandar-intercambio-informacion/codigo-ascii.png" align="right" style="width: 180px">
 </p>
 
