@@ -60,7 +60,7 @@
 
 ---
 <p> 
-<img src="https://cdn.buymeacoffee.com/uploads/slider_images/2020/04/b6133ee1c7cbf6e91db0ce696855e6f8.png@1200w_0e.webp" align="right" style="width: 290px">
+<img src="https://cdn.buymeacoffee.com/uploads/slider_images/2020/04/b6133ee1c7cbf6e91db0ce696855e6f8.png@1200w_0e.webp" align="right" style="width: 250px">
 </p>
 
 `Libros GoalKicker` [Ir](https://books.goalkicker.com)
@@ -70,7 +70,7 @@
 
 ---
 <p> 
-<img src="https://www.30secondsofcode.org/assets/30s-icon.png" align="right" style="width: 141px">
+<img src="https://www.30secondsofcode.org/assets/30s-icon.png" align="right" style="width: 100px">
 </p>
 
 `30 segundos de código` [Ir](https://www.30secondsofcode.org/)
@@ -80,7 +80,7 @@
 
 ---
 <p> 
-<img src="https://the-algorithms.com/logo_t.svg" align="right" style="width: 110px">
+<img src="https://the-algorithms.com/logo_t.svg" align="right" style="width: 100px">
 </p>
 
 `The Algorithms` [Ir](https://the-algorithms.com)
