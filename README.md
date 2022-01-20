@@ -100,7 +100,7 @@
 
 ---
 <p> 
-<img src="https://elcodigoascii.com.ar/codigo-americano-estandar-intercambio-informacion/codigo-ascii.png" align="right" style="width: 200px">
+<img src="https://elcodigoascii.com.ar/codigo-americano-estandar-intercambio-informacion/codigo-ascii.png" align="right" style="width: 180px">
 </p>
 
 `Código ASCII` [Ir](https://elcodigoascii.com.ar)
